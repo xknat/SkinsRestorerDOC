@@ -3,5 +3,7 @@ repo_url: https://github.com/xknat/SkinsRestorerDOC
 pages:
 - Home: index.md
 - About: about.md
+- Bugs: bugs.md
+- Commands: commands.md
 
 theme: readthedocs
