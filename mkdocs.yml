@@ -2,7 +2,5 @@ site_name: SkinsRestorerDOC
 repo_url: https://github.com/xknat/SkinsRestorerDOC
 pages:
 - Home: index.md
-- About: about.md
-- bugs: bugs.md
 
 theme: readthedocs
