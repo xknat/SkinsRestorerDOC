@@ -4,8 +4,5 @@ pages:
 - Home: index.md
 - About: about.md
 - bugs: bugs.md
-- Iusses
-    - not working: Iusses/not working.md
-    - not updating: Iusses/not applying.md
-        - bungee: Iusses/not updating/bungee.md
+
 theme: readthedocs
