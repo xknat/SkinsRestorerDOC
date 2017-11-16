@@ -1,5 +1,6 @@
-[wip]
-**TO DO LIST / KNOWN ISSUES:**
+#bugs
+wip i know i know this is just copy paste
+TO DO LIST / KNOWN ISSUES:
 1.  a separate proxy.txt file so its easy to add them and reload.
 *2. for sponge: add /sr and update /skin*
 3. tlauncher not working for self view skin
