@@ -6,6 +6,7 @@
     [reducing api request](#reducing-api-request)
     
     [apply custom default skins](#apply-custom-default-skins)
+    
 - [Default Config](#default-config)
 
 
