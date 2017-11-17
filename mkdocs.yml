@@ -5,5 +5,6 @@ pages:
 - About: about.md
 - Bugs: bugs.md
 - Commands: commands.md
+- Config: config.md
 
 theme: readthedocs
