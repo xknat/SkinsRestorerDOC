@@ -8,6 +8,7 @@ here is the list or smth
 
 ### User Commands
 **note that the skinsmenu and skincooldown bypass are not given on op**
+
 if it says you have no permissions to acces this command make sure to read the **bungee install guide**
 
 Command and aliases | Description | Permissions
