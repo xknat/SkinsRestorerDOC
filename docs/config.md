@@ -1,9 +1,9 @@
 # Info
 
 ###Table Of Contents
-- [Config guide](#Config Guide)
--   [reducing api request](#reducing api request)
--   [apply custom default skins](#apply custom default skins)
+- [Config guide](#config-guide)
+    [reducing api request](#reducing-api-request)
+    [apply custom default skins](#apply-custom-default-skins)
 - [Default Config](#default-config)
 
 
@@ -15,13 +15,13 @@ the plugin should be able to run without config needed but if you feel like you 
 
 here are some little tips:
 
-### - reducing api request
+### Reducing api request
 a lot of big server owners want to reduce api usage to increase performance. you can do this by the following:
 1. set the "skinsexpireafter" higher
 2. set the "skincooldown" higher 
 3. only make skinchange available for donators 
 
-### - apply custom default skins
+### Apply custom default skins
 **not working for bungee on version 13.1.4-BETA or below**
 if you want to apply a default skin for your server you can do the following:
 1. set the skin on your own using /skin to load it in the database
