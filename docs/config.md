@@ -1,10 +1,37 @@
 # Info
 
 ##Table Of Contents
+- [Config guide](#Config Guide)
+  - [reducing api request](#reducing api request)
+  - [apply custom default skins](#apply custom default skins)
 - [Default Config](#Default Config)
 
+## Config Guide
+
+We want skinsrestorer to be ease of use. thats why it there are little advanced config option.
+
+the plugin should be able to run without config needed but if you feel like you need it then your at the right place here.
+
+here are some little tips:
+
+#### - reducing api request
+a lot of big server owners want to reduce api usage to increase performance. you can do this by the following:
+1. set the "skinsexpireafter" higher
+2. set the "skincooldown" higher 
+3. only make skinchange available for donators 
+
+#### - apply custom default skins
+**not working for bungee on version 13.1.4-BETA or below**
+if you want to apply a default skin for your server you can do the following:
+1. set the skin on your own using /skin to load it in the database
+1.2 [optional] you can sure the skin does not change by setting the 3th row of the skin to 2524608000 (wich is year 2050) [this will also reduce api skinrequest]
+2. set the defaultskins on true and add the disired skin
+3. restart the or do "/sr reload"
 
 
+done!
+
+-----------------
 
 ## Default Config
 the config file can be found on github: [Click Here]: https://github.com/Th3Tr0LLeR/SkinsRestorer---Maro/blob/master/config.yml
@@ -71,4 +98,3 @@ MySQL:
 Updater:
   Enabled: true
 ```
-###end
