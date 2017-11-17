@@ -6,7 +6,10 @@ here is the list or smth
 
 
 
-### User Commands  
+### User Commands
+**note that the skinsmenu and skincooldown bypass are not given on op**
+if it says you have no permissions to acces this command make sure to read the **bungee install guide**
+
 Command and aliases | Description | Permissions
 ----------------|--------------|-------
 `/skin` | the main command | `skinsrestorer.playercmds` or `OP`
@@ -17,11 +20,12 @@ PERM | bypass the skinscooldown config | `skinsrestorer.bypasscooldown`
 ### Admin Commands
 Command and aliases | Description | Permissions
 ----------------|--------------|-------
-`/sr` | description here | `permshere` or `OP`
+`/sr` | shows the admin command | `skinsrestorer.cmds` or `OP`
+`/sr set <player> <skin>` | set's a player skin | `skinsrestorer.cmds` or `OP`
 
 ### Config Commands
+
 Command and aliases | Description | Permissions
 ----------------|--------------|-------
 `/sr config` `/skinsrestorer config` | show config options | `skinsrestorer.cmds` or `OP`
-`/sr ` | show config options | `skinsrestorer.cmds` or `OP`
 WIP
