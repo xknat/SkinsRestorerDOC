@@ -4,7 +4,7 @@
 - [Config guide](#Config Guide)
 -   [reducing api request](#reducing api request)
 -   [apply custom default skins](#apply custom default skins)
-- [Default Config](#default-Config)
+- [Default Config](#default-config)
 
 
 ## Config Guide
