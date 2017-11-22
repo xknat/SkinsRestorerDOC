@@ -2,6 +2,7 @@
 in here you can find all the info needed for support and information about the plugin
 
 still need help? join our discord server: 
+
 [![img][img]](https://discord.gg/sAhVsyU)
 
 ##Content
