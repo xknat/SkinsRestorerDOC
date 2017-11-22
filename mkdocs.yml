@@ -4,6 +4,7 @@ pages:
 - Home: index.md
 - About: about.md
 - Bugs: bugs.md
+- Versions: versions.md
 - Commands: commands.md
 - Config: config.md
 
