@@ -7,5 +7,6 @@ join our discord server:
 ##Content
 - [About](about.md)
 - [Bugs](bugs.md)
+- [Version's](versions.md)
 - [commands](commands.md)
 - [Config](config.md)
