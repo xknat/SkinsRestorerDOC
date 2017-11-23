@@ -20,10 +20,15 @@ the plugin should be able to run without config needed but if you feel like you 
 here are some little tips:
 
 ### Reducing api request
+
 a lot of big server owners want to reduce api usage to increase performance. you can do this by the following:
+
 1. set the "skinsexpireafter" higher
+
 2. set the "skincooldown" higher 
+
 3. only make skinchange available for donators 
+
 
 ### Apply custom default skins
 **not working for bungee on version 13.1.4-BETA or below**
