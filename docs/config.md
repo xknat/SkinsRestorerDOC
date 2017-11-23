@@ -7,6 +7,7 @@
     
     [apply custom default skins](#apply-custom-default-skins)
     
+    
 - [Default Config](#default-config)
 
 
@@ -26,10 +27,15 @@ a lot of big server owners want to reduce api usage to increase performance. you
 
 ### Apply custom default skins
 **not working for bungee on version 13.1.4-BETA or below**
+
 if you want to apply a default skin for your server you can do the following:
+
 1. set the skin on your own using /skin to load it in the database
+
 1.2 [optional] you can sure the skin does not change by setting the 3th row of the skin to 2524608000 (wich is year 2050) [this will also reduce api skinrequest]
+
 2. set the defaultskins on true and add the disired skin
+
 3. restart the or do "/sr reload"
 
 
