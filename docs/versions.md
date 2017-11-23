@@ -13,7 +13,7 @@ sadly after a month or 2 all proxy's were slowley goign down. in the end some se
 
 ###13.1.3
 
-[[Official spigot update info](versions.md)] [[Direct Spigot download](https://www.spigotmc.org/resources/skinsrestorer.2124/download?version=178566)]
+[[Official spigot update info](https://www.spigotmc.org/resources/skinsrestorer.2124/update?update=181347)] [[Direct Spigot download](https://www.spigotmc.org/resources/skinsrestorer.2124/download?version=178566)]
 
 - fixed skinsrestorer not working for bukkit since 1.12
 
@@ -25,7 +25,7 @@ sadly after a month or 2 all proxy's were slowley goign down. in the end some se
 
 ###13.1.2
 
-[[Official spigot update info](versions.md)] [[Direct Spigot download](https://www.spigotmc.org/resources/skinsrestorer.2124/download?version=167127)]
+[[Official spigot update info](https://www.spigotmc.org/resources/skinsrestorer.2124/update?update=169709)] [[Direct Spigot download](https://www.spigotmc.org/resources/skinsrestorer.2124/download?version=167127)]
 
 - we added the [skinsrestorer] prefix to conzole output command's
 
@@ -33,25 +33,25 @@ sadly after a month or 2 all proxy's were slowley goign down. in the end some se
 
 ###13.1.1
 
-[[Official spigot update info](versions.md)] [[Direct Spigot download](https://www.spigotmc.org/resources/skinsrestorer.2124/download?version=166558)]
+[[Official spigot update info](https://www.spigotmc.org/resources/skinsrestorer.2124/update?update=169123)] [[Direct Spigot download](https://www.spigotmc.org/resources/skinsrestorer.2124/download?version=166558)]
 
 wip
 
 ###13.1
 
-[[Official spigot update info](versions.md)] [[Direct Spigot download](https://www.spigotmc.org/resources/skinsrestorer.2124/download?version=166402)]
+[[Official spigot update info](https://www.spigotmc.org/resources/skinsrestorer.2124/update?update=168965)] [[Direct Spigot download](https://www.spigotmc.org/resources/skinsrestorer.2124/download?version=166402)]
 
 wip
 
 ###13.0.7-8
 
-[[Official spigot update info](versions.md)] [[Direct Spigot download](https://www.spigotmc.org/resources/skinsrestorer.2124/download?version=165571)]
+[Official spigot update info [(13.0.7)](https://www.spigotmc.org/resources/skinsrestorer.2124/update?update=168041) [(13.0.8)](https://www.spigotmc.org/resources/skinsrestorer.2124/update?update=168115)] [[Direct Spigot download](https://www.spigotmc.org/resources/skinsrestorer.2124/download?version=165571)]
 
 wip
 
 ###13.0.5-6
 
-[[Official spigot update info](versions.md)] [[Direct Spigot download](https://www.spigotmc.org/resources/skinsrestorer.2124/download?version=165415)]
+[Official spigot update info [(13.0.5)](https://www.spigotmc.org/resources/skinsrestorer.2124/update?update=167862) [(13.0.6)](https://www.spigotmc.org/resources/skinsrestorer.2124/update?update=167956)] [[Direct Spigot download](https://www.spigotmc.org/resources/skinsrestorer.2124/download?version=165415)]
 
 THIS VERSION IS UNSTABLE (i guess)
 
@@ -61,7 +61,7 @@ these were beta versions in wich we did let the discord test it. there were a lo
 
 ###13.0.1-3
 
-[[Official spigot update info](versions.md)] [[Direct Spigot download](versions.md)]
+[Official spigot update info [(13.0.1)](https://www.spigotmc.org/resources/skinsrestorer.2124/update?update=162511) [(13.0.2)](https://www.spigotmc.org/resources/skinsrestorer.2124/update?update=162643) [(13.0.3 [github commit])](version.md)] [[Direct Spigot download](versions.md)]
 
 we did skip WIP
 
