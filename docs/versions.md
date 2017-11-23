@@ -15,13 +15,21 @@ sadly after a month or 2 all proxy's were slowley goign down. in the end some se
 
 [[Official spigot update info](versions.md)] [[Direct Spigot download](https://www.spigotmc.org/resources/skinsrestorer.2124/download?version=178566)]
 
-wip
+- fixed skinsrestorer not working for bukkit since 1.12
+
+- fixed command blocks bug
+
+- bugfix for skinsmenu (redglass)
+
+- did try to hotfix skinscooldown display (but failed).
 
 ###13.1.2
 
 [[Official spigot update info](versions.md)] [[Direct Spigot download](https://www.spigotmc.org/resources/skinsrestorer.2124/download?version=167127)]
 
-wip
+- we added the [skinsrestorer] prefix to conzole output command's
+
+- additional changes for supressing the player duplication bug
 
 ###13.1.1
 
