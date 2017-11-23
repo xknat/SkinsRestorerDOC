@@ -9,7 +9,9 @@ some older versions might be broken dude to a older api wich stopped.
 [[Official spigot update info](https://www.spigotmc.org/resources/skinsrestorer.2124/update?update=189491)] [[Direct Spigot download](https://www.spigotmc.org/resources/skinsrestorer.2124/download?version=186640)]
 
 we changed the local proxy.txt to https://getmeaproxy.com [[api](https://getmeproxy.com/api/v1.0/api.php?key=c84d1076312bcf1e875c94d4e20692f5&checked=1&p=https&s=5&list=text)]
-sadly after a month or 2 all proxy's were slowley goign down. in the end some servers now do crash because it has slow connection to connect to the "not best but still working" proxy's
+, sadly after a month or 2 all proxy's were slowley goign down. 
+
+In the end some servers now do crash because it has slow connection to connect to the "not best but still working" proxy's
 
 ###13.1.3
 
