@@ -3,12 +3,11 @@
 ###Table Of Contents
 - [Config guide](#config-guide)
 
-   -  [reducing api request](#reducing-api-request)
+   =  [reducing api request](#reducing-api-request)
    
-   -  [how to apply custom skin](#how-to-apply-custom-skin)
+   =  [how to apply custom skin](#how-to-apply-custom-skin)
    
-   -  [apply custom default skins](#apply-custom-default-skins)
-    
+   =  [apply custom default skins](#apply-custom-default-skins)
     
 - [Default Config](#default-config)
 
