@@ -30,6 +30,23 @@ a lot of big server owners want to reduce api usage to increase performance. you
 3. only make skinchange available for donators 
 
 
+### how to apply custom skin
+
+we get a lot of questions about how to apply a custom skin.
+
+i wont go in a lot of detail's because its all up to you
+
+1. make sure the file and cape(optional) are online with a .png link
+
+2. decode a skin to use the template (for example: [notch](https://sessionserver.mojang.com/session/minecraft/profile/069a79f444e94726a5befca90e38aaf5))
+
+3. replace it with your skindata and make sure all info matches
+
+4. encode it again with base64 and apply it to the matching .skin file
+
+5. make sure you set the 3th line on 2524608000 (wich is year 2050) wich will avoid getting the skin invalid
+
+
 ### Apply custom default skins
 **not working for bungee on version 13.1.4-BETA or below**
 
