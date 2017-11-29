@@ -1,25 +1,38 @@
-bugs
+#bugs
 ===================
-wip i know i know this is just copy paste
+because troller is verry bussy, updates will be done in a batch in each time.
+so keep in mind that the bugs fixed might not yet be in the last version yet.
 
-TO DO LIST / KNOWN ISSUES:
-------------------------
-1.  a separate proxy.txt file so its easy to add them and reload.
+##current bugs 
 
-2. for sponge: add /sr and update /skin
+bug we known and are working on:
 
-3. tlauncher not working for self view skin
+1. Tlauncher custom api overides skinsrestorer (we are tying to contact tlauncher)
 
-3. get curent .player skin and show it in the gui skull to know what skin you are having
+2. [13.1.3] MojangAPI.java#L175-L177 gives error when it can't random 1 proxy in list
 
-4. Add /skinclear back or /sr clear
+3. skinwithoutperms for bungee
 
-5. MojangAPI.java#L175-L177 gives error when it can't random 1 proxy in list
+4. /sr props did broke after 1231 bungee version
 
-6. skinwithoutperms for bungee 
+5. 
 
-7. timer is giving wrong data when goign over 30seconds cooldown (only display is wrong)
 
-8. /sr props did broke after 1231 bungee version
+###waiting for release
 
-9. some permissions for example -skinsrestorer.skin.notch
+these bugs have been fixed but are still in testing / waiting on nexst update to be implemented.
+
+1. The plugin doesn't work on CraftBukkit
+
+2. bugs that have been fixed but waiting on release:
+
+3.  Add /skin clear back or /sr clear
+
+4. timer is giving wrong data when goign over 30seconds cooldown (only display is wrong)
+
+
+#enchant list
+
+these are updates that will improve the quality of the plugin and are not essential:
+
+1. some permissions for example -skinsrestorer.skin.notch
