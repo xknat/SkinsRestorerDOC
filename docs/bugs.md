@@ -1,6 +1,7 @@
 #bugs
-===================
+
 because troller is verry bussy, updates will be done in a batch in each time.
+
 so keep in mind that the bugs fixed might not yet be in the last version yet.
 
 ##current bugs 
@@ -15,10 +16,8 @@ bug we known and are working on:
 
 4. /sr props did broke after 1231 bungee version
 
-5. 
 
-
-###waiting for release
+##waiting for release
 
 these bugs have been fixed but are still in testing / waiting on nexst update to be implemented.
 
@@ -31,7 +30,7 @@ these bugs have been fixed but are still in testing / waiting on nexst update to
 4. timer is giving wrong data when goign over 30seconds cooldown (only display is wrong)
 
 
-#enchant list
+##enchant list
 
 these are updates that will improve the quality of the plugin and are not essential:
 
