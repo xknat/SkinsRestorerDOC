@@ -16,6 +16,8 @@ bug we known and are working on:
 
 4. /sr props did broke after 1231 bungee version
 
+5. if plugin cant get a proxy list we should notify that the server is prob blocking https connection. 
+
 
 ##waiting for release
 
