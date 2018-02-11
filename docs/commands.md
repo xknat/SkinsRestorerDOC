@@ -1,5 +1,4 @@
 here are skinsrestorer commands.
-if 
 
 ##Table Of Contents
 - [User cmds](#User Commands)
@@ -7,7 +6,7 @@ if
 - [Config cmds](#Config Commands)
 
 
-### User Commands
+## User Commands
 **note that the skinsmenu and skincooldown bypass are not given on op**
 
 if it says you have no permissions to acces these command make sure to read the **bungee install guide**
@@ -19,7 +18,7 @@ Command and aliases | Description | Permissions
 `/skins` | open the skinsmenu | `skinsrestorer.playercmds.menu`
 PERM | bypass the skinscooldown config | `skinsrestorer.bypasscooldown`
 
-### Admin Commands
+## Admin Commands
 Command and aliases | Description | Permissions
 ----------------|--------------|-------
 `/sr` | shows the admin command | `skinsrestorer.cmds` or `OP`
@@ -30,8 +29,10 @@ Command and aliases | Description | Permissions
 `/sr props <player>` | gives the skinprops of the current player | `skinsrestorer.cmds` or `OP`
 PERM | bypass the disabledskins list | `skinsrestorer.bypassdisabled` or `OP`
 
-### Config Commands
+## Config Commands
 **note read config guide**
+
+config commands have been removed on version 13.4
 
 Command and aliases | Description | Permissions
 ----------------|--------------|-------
